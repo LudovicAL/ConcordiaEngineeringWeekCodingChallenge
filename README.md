@@ -22,13 +22,9 @@ us the configuration used for their machines. However, the amount of data is far
 deciphered by hand and now we need to use Dr. Turing’s new machines.
 
 Here is what we have:
-
 Rotor I: MNBVCXZQWERTYUIOPLKJHGFDSA
-
 Rotor II: AJDKSIRUXBLHWTMCQGZNPYFVOE
-
 Rotor III: QWERTYUIOPASDFGHJKLZXCVBMN
-
 Reflector: YRUHQSLDPXNGOKMIEBFZCWVJAT
 
 Where Rotor I turns every letter, Rotor II turns every second letter, and Rotor III turns every third
