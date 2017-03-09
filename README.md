@@ -33,11 +33,8 @@ We have intel confirming that the enemy replaces all space characters with “QQ
 encrypting the messages.
 
 Your mission is to:
-1. Create a program in any language capable of reading a file given through the Command
-Line arguments and generating a file called enigma.txt with the encrypted or translated
-version of that file.
-2. Submit your code in a zip file with a readme file with the team members’ names as well
-as instructions on how to run the code.
+1. Create a program in any language capable of reading a file given through the Command Line arguments and generating a file called enigma.txt with the encrypted or translated version of that file.
+2. Submit your code in a zip file with a readme file with the team members’ names as well as instructions on how to run the code.
 
 ATTENTION: We also received information that the file contains secret messages that can
 possibly lead to new intel.
