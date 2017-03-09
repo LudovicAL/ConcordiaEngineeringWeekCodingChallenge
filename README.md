@@ -2,8 +2,11 @@
 A coding challenge organized by the Engineering and Computer Science Association (ECA)
 
 A normal enigma machine is comprised of 3 different parts:
+
 1. Input Keyboard
+
 2. Scrambling Unit containing 4 rotation gears (Rotors)
+
 3. Output board
 
 As a mechanical device, the enigma passes the signal given by the keyboard through the
@@ -22,9 +25,13 @@ us the configuration used for their machines. However, the amount of data is far
 deciphered by hand and now we need to use Dr. Turing’s new machines.
 
 Here is what we have:
+
 Rotor I: MNBVCXZQWERTYUIOPLKJHGFDSA
+
 Rotor II: AJDKSIRUXBLHWTMCQGZNPYFVOE
+
 Rotor III: QWERTYUIOPASDFGHJKLZXCVBMN
+
 Reflector: YRUHQSLDPXNGOKMIEBFZCWVJAT
 
 Where Rotor I turns every letter, Rotor II turns every second letter, and Rotor III turns every third
@@ -33,7 +40,9 @@ We have intel confirming that the enemy replaces all space characters with “QQ
 encrypting the messages.
 
 Your mission is to:
+
 1. Create a program in any language capable of reading a file given through the Command Line arguments and generating a file called enigma.txt with the encrypted or translated version of that file.
+
 2. Submit your code in a zip file with a readme file with the team members’ names as well as instructions on how to run the code.
 
 ATTENTION: We also received information that the file contains secret messages that can
